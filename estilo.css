@@ -1,0 +1,25 @@
+body {
+background-color: rgb(220, 238, 238);
+}
+
+#Netlify{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+h2{
+    font-style: italic;
+    border: rgb(180, 165, 247) 1px solid;
+    border-radius: 50px;
+    text-align: center;
+    background-color:rgb(91, 253, 205);
+    box-shadow: rgb(4, 4, 238) 2px 2px 5px;
+}
+
+label{  
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20x;
+line-height: 2.0;  
+}
+
